@@ -3533,6 +3533,9 @@ body.chat-open #chat {
         float: none;
         width: 100%
     }
+    .logo-expanded img{
+        width: 25px;
+    }
 }
 
 .footer-sticked-chat .chat-conversations>li .chat-user {
