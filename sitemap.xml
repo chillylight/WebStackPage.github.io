@@ -1,22 +1,22 @@
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://aitop10.tools/cn/index.html</loc>
-<lastmod>2024-05-11T06:23:22+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://aitop10.tools/cn/about.html</loc>
-<lastmod>2024-05-11T06:23:22+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://aitop10.tools/en/index.html</loc>
-<lastmod>2024-05-11T06:23:22+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://aitop10.tools/en/about.html</loc>
-<lastmod>2024-05-11T06:23:22+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<urlset>
+  <url>
+    <loc>https://aitop10.tools/cn/index.html</loc>
+    <lastmod>2024-05-11T06:23:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://aitop10.tools/cn/about.html</loc>
+    <lastmod>2024-05-11T06:23:22+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aitop10.tools/en/index.html</loc>
+    <lastmod>2024-05-11T06:23:22+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://aitop10.tools/en/about.html</loc>
+    <lastmod>2024-05-11T06:23:22+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
